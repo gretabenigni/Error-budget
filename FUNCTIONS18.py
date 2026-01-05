@@ -21,7 +21,7 @@ from arte.types.guide_source import GuideSource
 from arte.types.aperture import CircularOpticalAperture 
 from arte.atmo.von_karman_covariance_calculator import VonKarmanSpatioTemporalCovariance 
 from arte.atmo.cn2_profile import Cn2Profile                                                                                     
-
+#################################
 
 
 # Reads the YAML file (where parameters are listed) and returns a dictionary.
