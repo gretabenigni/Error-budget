@@ -23,7 +23,7 @@ from arte.atmo.von_karman_covariance_calculator import VonKarmanSpatioTemporalCo
 from arte.atmo.cn2_profile import Cn2Profile                                                                                     
 #################################
 
-
+##########################################
 # Reads the YAML file (where parameters are listed) and returns a dictionary.
 
 def load_parameters(yaml_file):
